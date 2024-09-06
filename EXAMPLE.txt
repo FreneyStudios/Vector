@@ -1,0 +1,8 @@
+from Vector import main as Vmain
+from Vector import datatypes as Vdata
+
+'''
+NOTE: to start the program,you need to press:
+    CTRL + Z
+'''
+Vdata.VC_PRINT("Hello Freney Studios' World!")
