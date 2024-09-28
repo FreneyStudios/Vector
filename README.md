@@ -1,7 +1,7 @@
 ﻿# Vector
 
- VECTOR IS BETA
+**VECTOR IS BETA**
 
 a Python Open-source Plug-in to speed-up Python!
 
-by Freney Studios
+# ********by Freney Studios******** #
