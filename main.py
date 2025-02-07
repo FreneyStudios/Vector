@@ -22,6 +22,9 @@ def SysSpeed()->int:
 def SysExit(motive):
     sys.exit(motive)
 
+def SysExitSuccess():
+    sys.exit(0)
+
 def CSysExit(condition:bool,motive:str):
     if condition:
         sys.exit(motive)
