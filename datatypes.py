@@ -12,3 +12,6 @@ def VC_PRINT(char:str):
         sys.stdout.write(str(char)+"\n")
     except Exception as e:
         pass
+
+def VC_READ(char:str):
+    sys.stidin.read()
